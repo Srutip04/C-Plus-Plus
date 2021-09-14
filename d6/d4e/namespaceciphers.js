@@ -4,6 +4,7 @@ var namespaceciphers =
       [ "decrypt", "d6/d2c/caesar__cipher_8cpp.html#a355e69511cd2006b5c4c80ae95b71056", null ],
       [ "encrypt", "d6/d2c/caesar__cipher_8cpp.html#ac3381121289548640b1c27a58a8524c3", null ]
     ] ],
+    [ "elliptic_curve_key_exchange", "df/d6b/namespaceciphers_1_1elliptic__curve__key__exchange.html", "df/d6b/namespaceciphers_1_1elliptic__curve__key__exchange" ],
     [ "morse", null, [
       [ "char_to_morse", "d8/d76/morse__code_8cpp.html#ab31773fd11555d21f70d6914138d9535", null ],
       [ "decrypt", "d8/d76/morse__code_8cpp.html#a15c66ec8cf4cef0a35c50cbab86965dc", null ],

@@ -17,9 +17,12 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "fibonacci_large.cpp", "de/de4/fibonacci__large_8cpp.html", "de/de4/fibonacci__large_8cpp" ],
     [ "fibonacci_matrix_exponentiation.cpp", "da/dc9/fibonacci__matrix__exponentiation_8cpp.html", "da/dc9/fibonacci__matrix__exponentiation_8cpp" ],
     [ "fibonacci_sum.cpp", "de/dc3/fibonacci__sum_8cpp.html", "de/dc3/fibonacci__sum_8cpp" ],
+    [ "finding_number_of_digits_in_a_number.cpp", "d0/d46/finding__number__of__digits__in__a__number_8cpp.html", "d0/d46/finding__number__of__digits__in__a__number_8cpp" ],
     [ "gcd_iterative_euclidean.cpp", "d4/da0/gcd__iterative__euclidean_8cpp.html", "d4/da0/gcd__iterative__euclidean_8cpp" ],
     [ "gcd_of_n_numbers.cpp", "d1/d11/gcd__of__n__numbers_8cpp.html", "d1/d11/gcd__of__n__numbers_8cpp" ],
     [ "gcd_recursive_euclidean.cpp", "d4/d45/gcd__recursive__euclidean_8cpp.html", "d4/d45/gcd__recursive__euclidean_8cpp" ],
+    [ "integral_approximation.cpp", "d1/de9/integral__approximation_8cpp.html", "d1/de9/integral__approximation_8cpp" ],
+    [ "inv_sqrt.cpp", "d6/db8/inv__sqrt_8cpp.html", "d6/db8/inv__sqrt_8cpp" ],
     [ "large_factorial.cpp", "d6/d9d/large__factorial_8cpp.html", "d6/d9d/large__factorial_8cpp" ],
     [ "large_number.h", "d4/d86/large__number_8h.html", [
       [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ]
@@ -32,6 +35,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "modular_division.cpp", "df/d72/modular__division_8cpp.html", "df/d72/modular__division_8cpp" ],
     [ "modular_exponentiation.cpp", "d0/d6d/modular__exponentiation_8cpp.html", "d0/d6d/modular__exponentiation_8cpp" ],
     [ "modular_inverse_fermat_little_theorem.cpp", "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html", "d8/d53/modular__inverse__fermat__little__theorem_8cpp" ],
+    [ "n_bonacci.cpp", "db/d27/n__bonacci_8cpp.html", "db/d27/n__bonacci_8cpp" ],
     [ "n_choose_r.cpp", "d1/dbb/n__choose__r_8cpp.html", "d1/dbb/n__choose__r_8cpp" ],
     [ "ncr_modulo_p.cpp", "de/dab/ncr__modulo__p_8cpp.html", "de/dab/ncr__modulo__p_8cpp" ],
     [ "number_of_positive_divisors.cpp", "d0/da2/number__of__positive__divisors_8cpp.html", "d0/da2/number__of__positive__divisors_8cpp" ],
